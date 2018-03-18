@@ -23,6 +23,10 @@ h1 {
   font-size: 40px;
   color:rgb(207, 204, 178);
 }
+a{
+  color: rgb(207, 204, 178);
+  text-decoration: none;
+}
 
 #content{
   position:absolute;
@@ -35,11 +39,17 @@ h1 {
 
 }
 
-body{
+body.startpage{
   background-color: rgb(28, 28, 27);
   background-image: url(https://assets.vogue.com/photos/5a611a4a77913e1576dad2ff/master/pass/00-story-image-best-chinese-food-in-new-york.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   color:white;
   background-position: 0px -200px;
+}
+body.menupage{
+  background-image:url(https://i.ytimg.com/vi/p311K8sOFXE/maxresdefault.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
 }
