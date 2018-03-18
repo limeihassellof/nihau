@@ -1,7 +1,7 @@
 h1 {
   font-family: 'Montez', cursive;
-  font-size: 200px;
-  line-height: 200px;
+  font-size: 230px;
+  line-height: 270px;
   margin:30px;
   color: rgb(91, 77, 6);
 }
@@ -18,7 +18,7 @@ h1 {
 #menu{
   position: absolute;
   top:300px;
-  left:80px;
+  left:130px;
   width: 300px;
   font-size: 40px;
   color:rgb(207, 204, 178);
@@ -31,6 +31,7 @@ h1 {
   right: 200px;
   font-size: 25px;
   line-height: 140%;
+  color:rgb(207, 204, 178);
 
 }
 
